@@ -1,0 +1,9 @@
+data/*
+*.*~
+*.pyc
+*.npy
+.DS_Store
+eegconformer.zip
+.superpowers/
+docs/superpowers/
+eegconformer/AGENT_CONTEXT.md
